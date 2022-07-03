@@ -1,0 +1,9 @@
+id=STRPxCODM
+name=𝙎𝙏𝙍𝙋 𝙭 𝘾𝙊𝘿𝙈
+author=CRANKV2
+version=v1.0
+versionCode=20
+description=Aim Assist/Booster ▌ Bullet Register ▌ HUGE Termux Menu ▌ su -c CODM ▌
+support=https://t.me/AndroidRootModulesCommunity
+minMagisk=20300
+updateJson=https://raw.githubusercontent.com/CRANKV2/STRPxCODM/main/module.json
